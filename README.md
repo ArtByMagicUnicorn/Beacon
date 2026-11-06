@@ -18,6 +18,8 @@ The main focus is not complex application logic, but **cloud infrastructure, aut
 
 This project was developed as part of the *Scalable Cloud Applications* course.
 
+The application was later expanded during the *Kubernetes* course with Kubernetes deployments, Helm, automated delivery to AKS, and the PengWin HQ interface. That continuation is available in **[Beacon-Kubernetes](https://github.com/ArtByMagicUnicorn/Beacon-Kubernetes)**.
+
 ## Tech stack
 
 - **C# / ASP.NET Core (.NET 10)** – backend and API
